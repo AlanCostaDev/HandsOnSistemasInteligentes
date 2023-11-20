@@ -6,6 +6,8 @@ UPDATE: Foi adicionado um slide que mostra o passo-a-passo para fazer um Pull Re
 
 ## Atividades
 
+
+
 <center>
 
 |                 Tarefa                 | *Deadline* |
